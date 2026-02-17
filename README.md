@@ -6,7 +6,7 @@ En el video se presenta primeramente un **enunciado** (problema a resolver) , el
 
 Tenemos que tener presente que el **diseño lógico** se basa en un **modelo de datos** (tecnología para organizar la información).
 
-Recordemos que un **esquema conceptual** se basa en entender los datos que necesitamos almacenar (es una primer paso para el modelado), mientras que el **esquema lógico** es la traducción de lo anterior a una **estructura de bases de datos real** con su debida implementación.
+Recordemos que un **esquema conceptual** se basa en entender los datos que necesitamos almacenar (es un primer paso para el modelado), mientras que el **esquema lógico** es la traducción de lo anterior a una **estructura de bases de datos real** con su debida implementación.
 
 Si el **diagrama de entidad relación** es correcto a través de una serie de **reglas** obtendremos el **esquema lógico** (**Estructura definitiva de las tablas** y como estas se conectan), cuya función es indicar la estructura que tendrá la información.
 

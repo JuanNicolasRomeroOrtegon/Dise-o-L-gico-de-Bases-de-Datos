@@ -2,7 +2,7 @@
 
 Se presenta un resumen sobre los temas propuestos en el video de la **Universidad Politécnica de Valencia**, todo esto apoyándonos del **modelo relacional** para las bases de datos.
 
-En el video se presenta un **enunciado**, el **diagrama entidad relación** y el **diseño lógico** cuyo objetivo es darle una solución al problema. 
+En el video se presenta primeramente un **enunciado** (problema a resolver) , el **diagrama entidad relación** (modelación de tablas) y el **diseño lógico** (esquema definitivo) cuyo objetivo es darle una solución al problema. 
 
 Tenemos que tener presente que el **diseño lógico** se basa en un **modelo de datos** (tecnología para organizar la información).
 

@@ -27,7 +27,7 @@ Si el **diagrama de entidad relación** es correcto a través de una serie de **
 
 ## TABLA "AUXILIAR" PARA N:N
 
-* Ayuda a definir la **relación muchos a muchos** tiene atributos, dentro de los cuales se destacan la **clave primaria** de cada una de las entidades a las cuales se les está modelando la relación muchos a muchos, si las claves primarias tienen el mismo nombre, estas deben modificarse levemente para indicar de qué tabla hacen parte originalmente.
+* Ayuda a definir la **relación muchos a muchos**, tiene atributos, dentro de los cuales se destacan la **clave primaria** de cada una de las entidades a las cuales se les está modelando la relación muchos a muchos, si las claves primarias tienen el mismo nombre, estas deben modificarse levemente para indicar de qué tabla hacen parte originalmente.
 * Cuando esta tabla tiene un **atributo importante** que modele la relación muchos a muchos es importante añadirlo (Como la cantidad de veces que ocurre la relación).
 * Su **clave primaria** es una **clave primaria compuesta** de las claves primarias de las tablas a las cuales les estamos haciendo la relación muchos a muchos.
 * Cada **atributo clave** que ha sido **"heredado"** de las otras dos tablas se convierte en **clave ajena** que apunta a la entidad correspondiente y al atributo clave correspondiente original.
